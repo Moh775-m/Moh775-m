@@ -11,7 +11,11 @@
   <a href="https://github.com/Moh775-m/services-platform"><img src="https://img.shields.io/badge/JAHIZ%20PLATFORM-FF6B00?style=for-the-badge&logo=react&logoColor=white"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 ### 🚀 About Me
 
@@ -45,24 +49,24 @@ class MohsenAlMashjari {
 | Project | Description | Link |
 |---|---|---|
 | 🛠️ **Hadhramout Services - جاهز** | منصة لعرض الحرفيين، المعدات، العقارات والمنتجات في حضرموت | [Live Demo](https://moh775-m.github.io/services-platform/) • [Code](https://github.com/Moh775-m/services-platform) |
-| 🕌 **Prayer Timer - مواقيت الصلاة** | موقع يعرض أوقات الصلوات الخمس مع عد تنازلي وتنبيهات | [Code](https://github.com/Moh775-m/prayer-timer) |
+| 🕌 **Prayer Timer - مواقيت الصلاة** | موقع يعرض أوقات الصلوات الخمس مع عد تنازلي وتنبيهات | [Live Demo](https://moh775-m.github.io/prayer-timer/) • [Code](https://github.com/Moh775-m/prayer-timer) |
 
 ### 🧰 Tech Toolbox
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+[Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+[Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+[Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Moh775-m&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moh775-m&theme=tokyonight&hide_border=true&layout=compact)
+[image](https://github-readme-stats.vercel.app/api?username=Moh775-m&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+[image](https://github-readme-stats.vercel.app/api/top-langs/?username=Moh775-m&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=Moh775-m&icon=0&color=12)
+[image](https://visitcount.itsvg.in/api?id=Moh775-m&icon=0&color=12)
